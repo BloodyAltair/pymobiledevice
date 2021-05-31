@@ -78,7 +78,7 @@ if __name__ == "__main__":
 'pymobileconfig=pymobiledevice.mobile_config:main',
 'pymobilebackup=pymobiledevice.mobilebackup:main',
 'pymobilebackup2=pymobiledevice.mobilebackup2:main',
-'pypcapd=pymobiledevice.pypcapd:main',
+'pypcapd=pymobiledevice.pcapd:main',
 'pyscreenshotr=pymobiledevice.screenshotr:main']},
         classifiers=[
             "Programming Language :: Python :: 2.7",
